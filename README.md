@@ -1,0 +1,1 @@
+This package is for "Rochester correction" (muon momentum correction which will be implemented in CMSSW.
